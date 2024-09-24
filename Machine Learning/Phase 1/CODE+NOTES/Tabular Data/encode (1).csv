@@ -1,0 +1,11 @@
+ID,Name,Gender,Age,Country,Purchased,Customer Satisfaction
+1,Alice,Female,23,USA,Yes,Very Satisfied
+2,Bob,Male,35,Canada,No,Neutral
+3,Charlie,Male,45,Australia,Yes,Satisfied
+4,Diana,Female,28,UK,No,Dissatisfied
+5,Ethan,Male,30,USA,Yes,Very Satisfied
+6,Fiona,Female,22,Canada,No,Very Dissatisfied
+7,George,Male,29,Australia,Yes,Satisfied
+8,Hannah,Female,33,UK,No,Neutral
+9,Ian,Male,40,USA,Yes,Very Satisfied
+10,Jessica,Female,27,Canada,No,Dissatisfied
